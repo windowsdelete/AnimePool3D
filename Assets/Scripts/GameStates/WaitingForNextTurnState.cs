@@ -50,7 +50,6 @@ namespace GameStates {
 		public override void LateUpdate() {
 			mainCamera.transform.position = mainBall.transform.position - cameraOffset;
 			mainCamera.transform.rotation = cameraRotation;
-			
 			mmmmm.transform.position = mainBall.transform.position - cueOffset;
 			mmmmm.transform.rotation = cueRotation;
 		}

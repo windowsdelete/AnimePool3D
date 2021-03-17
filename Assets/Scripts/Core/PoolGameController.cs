@@ -73,11 +73,11 @@ public class PoolGameController : MonoBehaviour {
 		_distanse = 0;
 		if (currentPlayerContinuesToPlay) {
 			currentPlayerContinuesToPlay = false;
-			Debug.Log("Ход: " + CurrentPlayer.Name);
+			//Debug.Log("Ход: " + CurrentPlayer.Name);
 			return;
 		}
 
-		Debug.Log("Ход: " +  OtherPlayer.Name);
+		//Debug.Log("Ход: " +  OtherPlayer.Name);
 		var aux = CurrentPlayer;
 		CurrentPlayer = OtherPlayer;
 		OtherPlayer = aux;

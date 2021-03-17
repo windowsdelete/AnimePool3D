@@ -20,7 +20,7 @@ public class Player {
 	}
 
 	public void Collect(int ballNumber) {
-		Debug.Log(Name + " забила шар номер " + ballNumber);
+		//Debug.Log(Name + " забила шар номер " + ballNumber);
 		ballsCount.Add(ballNumber);
 	}
 }

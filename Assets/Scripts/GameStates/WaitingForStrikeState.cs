@@ -14,7 +14,6 @@ namespace GameStates {
 			mmmmm = gameController.mmmmm;
 			mainBall = gameController.mainBall;
 			mainCamera = gameController.mainCamera;
-
 			mmmmm.GetComponent<Renderer>().enabled = true;
 		}
 
@@ -27,8 +26,7 @@ namespace GameStates {
 				mainCamera.transform.RotateAround(mainBall.transform.position, Vector3.up, angle);
 				mmmmm.transform.RotateAround(mainBall.transform.position, Vector3.up, angle);
 			}
-			Debug.DrawLine(mainBall.transform.position, mainBall.transform.position + gameController.strikeDirection * 10);
-
+			//Debug.DrawLine(mainBall.transform.position, mainBall.transform.position + gameController.strikeDirection * 10);
 			if (Input.GetButtonDown("Fire1")) {
 				gameController.currentState = new GameStates.StrikingState(gameController);
 			}
