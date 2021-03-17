@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: d837d150f42fae3409abd5d0757680b9
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bilhar cromo www
+    second: {fileID: 2100000, guid: 60fceac03f6ae884cae680db1fb0c4d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bilhar veludo ww
+    second: {fileID: 2100000, guid: bf50eb8a7f0107b439157fa5abd11849, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-01 www.3d1_
+    second: {fileID: 2100000, guid: aeffa09d92fe25141a1227c4ec0217d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-02 www.3d1_
+    second: {fileID: 2100000, guid: f8f28e9ac8da34a43ab28f72bb12701d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-03 www.3d1_
+    second: {fileID: 2100000, guid: 3100460f091cc6d40bbf5d2d92222550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-04 www.3d1_
+    second: {fileID: 2100000, guid: 8e263106c4909d244941a09f09322b54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-05 www.3d1_
+    second: {fileID: 2100000, guid: 3ac3b5b7b1f2a23409e7116a3f8115b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-06 www.3d1_
+    second: {fileID: 2100000, guid: 7a51d6433072e8b49bc0174bf0775b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-07 www.3d1_
+    second: {fileID: 2100000, guid: a82b65588bd455147a8467d759d1f158, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-08 www.3d1_
+    second: {fileID: 2100000, guid: 95e4a1e5f32112a4eac5d8d9028e648e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-09 www.3d1_
+    second: {fileID: 2100000, guid: 1cc9f9d4fbe3bdd4588fa2b8ec035322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-10 www.3d1_
+    second: {fileID: 2100000, guid: 745742b5b41f76b469442bb068ec0477, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-11 www.3d1_
+    second: {fileID: 2100000, guid: 7aee2937969992148b0abc8634356a82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-12 www.3d1_
+    second: {fileID: 2100000, guid: a58370f2081bd464ea1b638a4fb93866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-13 www.3d1_
+    second: {fileID: 2100000, guid: 81313765d8db9f346ae8a694cd36d14b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-14 www.3d1_
+    second: {fileID: 2100000, guid: 0f3b7957085b207429e80bb1bcce469f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-15 www.3d1_
+    second: {fileID: 2100000, guid: 2c090d146e016f64cbfae513bb909f6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-branca www_
+    second: {fileID: 2100000, guid: faf6e903fede9f34f928b54a670b3d93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome go
+    second: {fileID: 2100000, guid: 30adaf3713651534da454125d4d748a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glossy green
+    second: {fileID: 2100000, guid: 99a2243919f9b084eb1aa6bc93392284, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesa bilhar  met
+    second: {fileID: 2100000, guid: c6ccb835f74ce4041a76d56348c46eea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: taco bilhar made
+    second: {fileID: 2100000, guid: ac7f7fab35b2a6047a40a6ce3b961d41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: w  birch
+    second: {fileID: 2100000, guid: 284ec8e5e05c25a4cab6cc96d6b68597, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: w  birch1
+    second: {fileID: 2100000, guid: cd0e7c3bd7c041149a3bb1c57a2c6630, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: w  oreh-itali1
+    second: {fileID: 2100000, guid: 4ec67947d32d7704db04c5683ac8104b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: w  oreh-itali2
+    second: {fileID: 2100000, guid: 2812f46dc68ec5e4cab9f99b8dcaca8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: w  oreh-italians
+    second: {fileID: 2100000, guid: e56fbbe6d9202a342b8446cffb055271, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
