@@ -35,8 +35,8 @@ public class PoolGameController : MonoBehaviour {
 
 	void Start() {
 		strikeDirection = Vector3.forward;
-		CurrentPlayer = new Player("Ариса");
-		OtherPlayer = new Player("Мегуми");
+		CurrentPlayer = new Player("Аріса");
+		OtherPlayer = new Player("Мегумі");
 		GameInstance = this;
 		winMessage.GetComponent<Canvas>().enabled = false;
 		currentState = new GameStates.WaitingForStrikeState(this);
@@ -46,6 +46,8 @@ public class PoolGameController : MonoBehaviour {
 	void Update() {
 		currentState.Update();
 		FillPrBar();
+		if (CurrentPlayer.Points == 8 || OtherPlayer.Points == 8)
+			EndMatch();
 	}
 
 	void FixedUpdate() {
@@ -90,10 +92,10 @@ public class PoolGameController : MonoBehaviour {
 		else if (CurrentPlayer.Points < OtherPlayer.Points)
 			winner = OtherPlayer;
 
-		var msg = "Игра завершена\n";
+		var msg = "Гра завершена\n";
 
 		if (winner != null)
-			msg += string.Format("Победила {0}", winner.Name);
+			msg += string.Format("Перемогла {0}", winner.Name);
 		else
 			msg += "Ничья, потому что.";
 
